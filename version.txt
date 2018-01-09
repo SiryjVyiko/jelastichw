@@ -1,5 +1,5 @@
 Project-Name : app-jelastic-helloworld
-Project-Version : huyank
+Project-Version : trunk
 Revision : 0c45b73a9ad7492abdd7694f3e6a8441e41c8aee
 Build-Number : 2636
 Build-Date : 2015-04-01 19:16 UTC
