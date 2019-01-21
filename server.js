@@ -5,7 +5,7 @@ var http = require("http"),
     ejs = require("ejs"),
     fs = require("fs"),
     staticResource = require("static-resource"),
-    port = 8089,
+    port = 8090,
     serverUrl,
     handler;
 
