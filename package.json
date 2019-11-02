@@ -4,7 +4,7 @@
   "description": "Hello World! - My first Jelastic app",
   "main": "server.js",
   "dependencies": {
-    "ejs": "~1.0.0",
+    "ejs": "~2.7.1",
     "static-resource": "~0.1.0"
   },
   "devDependencies": {},
