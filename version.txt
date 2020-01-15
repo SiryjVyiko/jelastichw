@@ -1,2 +1,2 @@
 Project-Name : app-jelastic-helloworld
-Kolbasa: trulalalalaabc
+Kolbasa: trulalalalaabcasdsadasda
