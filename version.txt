@@ -1,7 +1,1 @@
 Project-Name : app-jelastic-helloworld
-sdfsfdfsfdsdfds
-asdASD
-DASD
-DSA
-fsdfdssdfds
-test
