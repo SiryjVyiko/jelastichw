@@ -1,0 +1,3 @@
+[submodule "django-cms"]
+	path = django-cms
+	url = https://github.com/SiryjVyiko/django-cms.git
