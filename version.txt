@@ -1,6 +1,5 @@
 Project-Name : app-jelastic-helloworld
 dsfds
-fsdfdsfs
 fasdf
 lklklklkl
 lklkl
